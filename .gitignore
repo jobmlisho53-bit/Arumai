@@ -1,1 +1,8 @@
 config/config.yaml
+models/*.pth
+models/checkpoints/*
+data/*
+logs/*
+__pycache__/
+*.pyc
+.env
