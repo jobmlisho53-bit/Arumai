@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+requests
+python-binance
+pyyaml
+websockets
+torch
+tensorflow
